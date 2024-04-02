@@ -21,7 +21,6 @@ import {
     MdPhone,
     MdEmail,
     MdLocationOn,
-    MdFacebook,
     MdOutlineEmail,
 } from 'react-icons/md';
 import { BsGithub, BsPerson, BsInstagram, BsLinkedin, BsTwitter } from 'react-icons/bs';
