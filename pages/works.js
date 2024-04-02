@@ -26,7 +26,7 @@ const worksData = [
     },
     {
         jobTitle: "Exposys Data Labs",
-        description: "Developed a cutting-edge video conferencing platform inspired by Google Meet. Collaborated closely with the development team to design, implement, and troubleshoot features.",
+        description: "Developed a cutting-edge video conferencing platform inspired by Google Meet. Collaborated closely with the development team to implement features.",
         duration: " June 2023 - July 2023",
         company: "Exposys Data Labs ",
         logo: "/works/expo.jpg"
