@@ -1,6 +1,6 @@
 # My Paws-folio 🐾
 
-[gurpreets.vercel.app](https://gurpreets.vercel.app/)
+[Link](https://devk-portfolio.vercel.app/)
 
 ## Todo's
 - [ ] Update Technology's Info
