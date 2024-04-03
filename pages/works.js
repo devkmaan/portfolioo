@@ -26,7 +26,7 @@ const worksData = [
     },
     {
         jobTitle: "Exposys Data Labs",
-        description: "Developed a cutting-edge video conferencing platform inspired by Google Meet. Collaborated closely with the different team.",
+        description: "Developed a cutting-edge video conferencing platform inspired by Google Meet. Collaborated closely with the development team to implement features.",
         duration: " June 2023 - July 2023",
         company: "Exposys Data Labs ",
         logo: "/works/expo.jpg"
@@ -45,7 +45,7 @@ const works = () => {
         >
             <Flex justifyContent="center">
                 <Heading as="h1" mb={20} mt={50} fontSize="6xl">
-                    Works
+                    Experience
                 </Heading>
             </Flex>
             <Stack direction={{ base: 'column', md: 'row' }} margin={{ base: 0, md: "auto" }}>
