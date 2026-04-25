@@ -67,7 +67,7 @@ export function ContactSection() {
                 rel={href.startsWith("http") ? "noreferrer" : undefined}
                 className="focus-ring rounded-lg border border-footer-line bg-footer-panel p-4 transition hover:border-lime"
               >
-                <span className="inline-flex h-10 w-10 items-center justify-center rounded-md bg-white text-ink">
+                <span className="inline-flex h-10 w-10 items-center justify-center rounded-md bg-white text-black dark:bg-zinc-800 dark:text-white">
                   <Icon size={18} aria-hidden="true" />
                 </span>
                 <span className="mt-4 block text-sm font-semibold uppercase text-footer-muted">
